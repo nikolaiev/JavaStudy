@@ -1,4 +1,4 @@
-package com.core.lection16.concurrency.queues;
+package com.core.lection16.concurrency.queues.link_concurrency_queue;
 
 /**
  * Created by vlad on 06.03.17.

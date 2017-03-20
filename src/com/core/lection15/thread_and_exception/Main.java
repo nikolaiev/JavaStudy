@@ -21,7 +21,7 @@ class  MyThread extends Thread{
     @Override
     public void run(){
         if(true){
-            throw  new RuntimeException("MyThread throw exception");
+            throw  new RuntimeException("MyThreadZero throw exception");
         }
     }
 }

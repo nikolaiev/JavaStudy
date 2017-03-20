@@ -1,4 +1,4 @@
-package com.core.lection16.concurrency.queues;
+package com.core.lection16.concurrency.queues.link_concurrency_queue;
 
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicReference;
